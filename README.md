@@ -7,6 +7,8 @@ This database would be perfect to create a web app to manage bookings and paymen
 The database also allows to keep a well organised record of all payments received by each student in relation to each class. This allows to easily identify students who have missed a payment so that a reminder can be sent. 
 The teacher can also easily retrieve accurate information on all payments to complete tax reports and could use the database to run business analysis in the future.
 
+![Database Architecture Flowchart](https://github.com/user-attachments/assets/5bd9dd10-54e1-4d51-b120-5528a560fd70)
+
 ### REQUIREMENTS
 
 MySQL Workbench
